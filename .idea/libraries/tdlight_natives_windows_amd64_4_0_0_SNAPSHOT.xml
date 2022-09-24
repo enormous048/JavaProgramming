@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tdlight-natives-windows-amd64-4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/tdlight-natives-windows-amd64-4.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
